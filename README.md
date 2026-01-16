@@ -1,2 +1,4 @@
 # Resume
 Hello, I’m Rabiya Tabassum, a Computer Science Engineering graduate passionate about data analysis, business analytics, and research-driven innovation. My journey blends technical expertise with creativity, from building a DIY Emo Robot that integrates hardware and software.
+ to conducting deep learning research and writing academic papers under university guidance. These experiences sharpened my problem-solving skills and taught me how to transform ideas into impactful solutions.
+I thrive at the intersection of technology and decision-making, aiming to help organizations leverage data for smarter strategies. My interests span data analytics, AI-driven business innovation, and UI/UX design, with analytics as my core path but design valued for its human-centered impact. I believe in combining technical rigor with empathy for users, ensuring that solutions are not only efficient but also meaningful.
